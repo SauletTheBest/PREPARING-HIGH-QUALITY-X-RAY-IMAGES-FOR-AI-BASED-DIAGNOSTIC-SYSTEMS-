@@ -56,6 +56,7 @@ Preliminary results show an improvement in visual clarity for lung structures.
 
 ## 🖌️ Graphs (example of mobileNETV2) 
 ![graph](progress/graph1.png)
+![graph](progress/Conf_matrix.png)
 <h3>*you can also check other pictures!*</h3>
 
 

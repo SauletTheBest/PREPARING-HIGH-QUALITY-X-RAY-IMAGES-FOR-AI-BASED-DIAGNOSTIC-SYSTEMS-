@@ -46,6 +46,8 @@ Preliminary results show an improvement in visual clarity for lung structures.
 
 ## 🖌️ Graphs (example of mobileNETV2) 
 you can also check other pictures!
-![graph](progress/Снимок экрана 2025-11-18 230900.png)
+![graph](progress/graph1.png)
+
+
 ---
 *This project is part of the academic curriculum at Astana IT University.*

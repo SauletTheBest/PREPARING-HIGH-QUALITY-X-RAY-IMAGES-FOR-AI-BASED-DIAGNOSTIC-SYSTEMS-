@@ -9,6 +9,16 @@ This repository documents the entire research process for improving chest X-ray 
 ## 🎯 Research Aim
 To improve the quality and consistency of chest X-ray images used in AI-based diagnostic systems through the evaluation of preprocessing techniques and the development of a standardized image preparation pipeline.
 
+## ✒️ Project Schedule
+
+| Week | Research Phase | Objectives / Tasks | Deadline |
+| :--- | :--- | :--- | :--- |
+| **Week 1-2** | **Data Review and Preparation** | • Define research questions<br>• Collect all required chest X-ray datasets<br>• Check image quality and identify noise, artefacts, and incorrect labels<br>• Create a catalog separating “clean” and “noisy” images | **End of Week 2** |
+| **Week 3-4** | **Interview,<br>Data Cleaning & Enhancement,<br>Writing Introduction** | • Conduct interviews with specialists or lecturers (ML/CV)<br>• Apply preprocessing and enhancement techniques (e.g., noise reduction, contrast adjustment)<br>• Remove low-quality or duplicate images<br>• Develop a script for automated data cleaning<br>• Read and analyze relevant extra articles<br>• Equally separate tasks among the team<br>• Discuss tasks with the team to find common solutions | **End of Week 4** |
+| **Week 5-6** | **Model Testing with Improved Dataset** | • Train a baseline model using the improved dataset<br>• Compare model accuracy with results from the original dataset<br>• Analyze how data quality affects model performance | **End of Week 6** |
+| **Week 7-8** | **Evaluation and Validation<br>& Writing Methodology** | • Evaluate model performance using metrics<br>• Visualize results with graphs and confusion matrices<br>• Summarize findings and performance improvements<br>• Read and analyze relevant extra articles<br>• Equally separate tasks among the team<br>• Discuss tasks with the team to find common solutions | **End of Week 8** |
+| **Week 9-10** | **Reporting and Final Review<br>& Create Final Paper** | • Write the final report (results, conclusions, limitations)<br>• Review and format the document according to submission guidelines<br>• Prepare the presentation or defense of the project | **End of Week 10** |
+
 ## 📂 Repository Structure
 * `docs/`: Contains all research reports, methodology chapters, and drafts.
 * `instruments/`: Interview scripts, survey forms, and data collection tools.

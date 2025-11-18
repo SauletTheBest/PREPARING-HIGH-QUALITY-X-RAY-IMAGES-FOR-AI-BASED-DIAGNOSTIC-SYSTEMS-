@@ -38,12 +38,14 @@ Preliminary results show an improvement in visual clarity for lung structures.
 * **Average SSIM:** ~0.87 (indicating structural integrity is preserved)
 * **Brightness:** Normalized to range [100-160]
 
-## 🖼️ Example of pictures of out pipline
+## 🖼️ Example of pictures of our pipline
 ![figure 1](image/results1.png)
 ![figure 2](image/results2.png)
 ![figure 3](image/results3.png)
 ![figure 4](image/results4.png)
 
-
+## 🖌️ Graphs (example of mobileNETV2) 
+you can also check other pictures!
+![graph](/progress/Снимок экрана 2025-11-18 230900.png)
 ---
 *This project is part of the academic curriculum at Astana IT University.*

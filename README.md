@@ -40,6 +40,10 @@ Preliminary results show an improvement in visual clarity for lung structures.
 
 ## 🖼️ Example of pictures of out pipline
 ![figure 1](image/results1.png)
+![figure 2](image/results2.png)
+![figure 3](image/results3.png)
+![figure 4](image/results4.png)
+
 
 ---
 *This project is part of the academic curriculum at Astana IT University.*

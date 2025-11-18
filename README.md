@@ -39,7 +39,7 @@ Preliminary results show an improvement in visual clarity for lung structures.
 * **Brightness:** Normalized to range [100-160]
 
 ## 🖼️ Example of pictures of out pipline
-[figure 1](image/result1)
+[figure 1](https://github.com/SauletTheBest/PREPARING-HIGH-QUALITY-X-RAY-IMAGES-FOR-AI-BASED-DIAGNOSTIC-SYSTEMS-/blob/main/image/results1.png)
 
 ---
 *This project is part of the academic curriculum at Astana IT University.*

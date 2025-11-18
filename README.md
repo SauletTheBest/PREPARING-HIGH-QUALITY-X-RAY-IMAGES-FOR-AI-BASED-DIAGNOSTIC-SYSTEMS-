@@ -40,8 +40,9 @@ We utilize a Python-based pipeline involving:
 ## 🚀 How to Reproduce
 1. Download mannually notebook.
 2. Open `notebooks/xray.ipynb`. You might though Google Colab.
-4. Download datasets ([LINK TAP TAP](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database?)), upload to your google disk and upload to your RAM memory(google colab) update the path in the notebook.
-5. Run all cells to see the transformation from Raw to Enhanced images.
+3. Download datasets ([LINK TAP TAP](https://www.kaggle.com/datasets/tawsifurrahman/covid19-radiography-database?)), upload to your google disk and upload to your RAM memory(google colab) update the path in the notebook.
+4. Run all cells to see the transformation from Raw to Enhanced images.
+5. Not working? Write me 😎
 
 ## 📊 Key Results
 Preliminary results show an improvement in visual clarity for lung structures.
